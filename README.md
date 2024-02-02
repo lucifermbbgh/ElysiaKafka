@@ -20,18 +20,6 @@
   </a>
 </p>
 
-
 ## STATS
-<a href="#stats" align="center">
-    <picture>
-        <source 
-          srcset="https://github-readme-stats.vercel.app/api?username=lucifermbbgh&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=material-palenight&hide_border=true"
-          media="(prefers-color-scheme: dark)"
-        />
-      <source
-          srcset="https://github-readme-stats.vercel.app/api?username=lucifermbbgh&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=buefy"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-      <img src="https://github-readme-stats.vercel.app/api?username=lucifermbbgh&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=buefy" />
-    </picture>
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucifermbbgh&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&bg_color=FF7F50,E9967A,FFDAB9,FFE4B5,FFDEAD)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifermbbgh&layout=compact&bg_color=FF7F50,E9967A,FFDAB9,FFE4B5,FFDEAD)](https://github.com/anuraghazra/github-readme-stats)
