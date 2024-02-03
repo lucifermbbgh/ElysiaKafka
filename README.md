@@ -1,5 +1,14 @@
 # Hi there!
 ![Introduction](https://github-widgetbox.vercel.app/api/profile?username=lucifermbbgh&data=followers,repositories,stars,commits)
+<img align="right" width="50%" src="https://github-widgetbox.vercel.app/api/skills?languages=java,html,css,js,ts,xml,json,yaml,mysql,powershell,markdown&frameworks=vue,bootstrap&libraries=jquery&tools=git,docker,npm,redis,nodejs,nginx&software=linux,windows,vscode&includeNames=true">
+
+<!--
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,nuxt,next,django,flutter,electron,bootstrap,gatsby,nest,tailwind,windi,express,svelte,angular,dotnetcore,laravel,ionic,dotnet)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=babel,p5,tensorflow,jquery)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode)](https://github.com/Jurredr/github-widgetbox)
+-->
 
 <h3>Hello!I'm a novice java developer,you can call me ElysiaKafka.</h3>
 <p>I am a game enthusiast who enjoys playing various types of games on Steam, whether it's shooting, action, or big strategy (such as Paradox).</p>
@@ -10,6 +19,13 @@
 <p>I think this can fulfill my dream.</p>
 <p>And I did achieve creation and change everything in my development work.</p>
 <p>Excellent!</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## SKILLS
 <p align=center>
@@ -21,17 +37,6 @@
     <img src="https://skillicons.dev/icons?i=mysql,redis" />
   </a>
 </p>
-
-## SKILLS
-<img align="center" width="50%" src="https://github-widgetbox.vercel.app/api/skills?languages=java,html,css,js,ts,xml,json,yaml,mysql,powershell,markdown&frameworks=vue,bootstrap&libraries=tensorflow,jquery&tools=git,docker,npm,redis,nodejs,nginx&software=linux,windows,vscode&includeNames=true">
-
-<!--
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,nuxt,next,django,flutter,electron,bootstrap,gatsby,nest,tailwind,windi,express,svelte,angular,dotnetcore,laravel,ionic,dotnet)](https://github.com/Jurredr/github-widgetbox)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=babel,p5,tensorflow,jquery)](https://github.com/Jurredr/github-widgetbox)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier)](https://github.com/Jurredr/github-widgetbox)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode)](https://github.com/Jurredr/github-widgetbox)
--->
 
 ## STATS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucifermbbgh&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&bg_color=FF7F50,E9967A,FFDAB9,FFE4B5,FFDEAD)
