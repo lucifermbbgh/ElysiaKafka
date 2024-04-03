@@ -1,8 +1,7 @@
 # Hi there!
+<img align="middle" width="50%" src="https://counter.seku.su/cmoe?name=gptsovits&theme=r34" /><br>
 ![Introduction](https://github-widgetbox.vercel.app/api/profile?username=lucifermbbgh&data=followers,repositories,stars,commits)
 <img align="right" width="50%" src="https://github-widgetbox.vercel.app/api/skills?languages=java,html,css,js,ts,xml,json,yaml,mysql,powershell,markdown&frameworks=vue,bootstrap&libraries=jquery&tools=git,docker,npm,redis,nodejs,nginx&software=linux,windows,vscode&includeNames=true">
-
-<img src="https://counter.seku.su/cmoe?name=gptsovits&theme=r34" /><br>
 
 <!--
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
